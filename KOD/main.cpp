@@ -21,7 +21,7 @@ int main()
     kul=rand()%6+1;
     
     if(bil==kul)
-    dnm=1;
+    dnm=0;
     
     while(bil!=kul)
     { cout<<"Attiginiz sayi "<<kul<<", maalesef dogru sayi degil.\n";
